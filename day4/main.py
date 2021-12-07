@@ -20,7 +20,7 @@ for x in b0:
 
 # rectifying data completed
 
-# marking fucntion
+# marking function
 def mark(i,a): # receives index of board and number to be marked
     for j in range(5):
         for k in range(5):
